@@ -1,0 +1,6 @@
+{
+  "name": "SlothFlow — Slow & Steady Open-Source AI",
+  "description": "Hacktoberfest Week 3 Challenge suite: Open-weight and local-first AI agents engineered to reward laziness and eliminate dreaded everyday friction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
